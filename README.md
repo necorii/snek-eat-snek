@@ -1,2 +1,2 @@
 # snek-eat-snek
-A short Snake clone using Raylib. Multiplayer may be added. Not sure. 
+A small Snake clone using [raylib](https://www.raylib.com/)
